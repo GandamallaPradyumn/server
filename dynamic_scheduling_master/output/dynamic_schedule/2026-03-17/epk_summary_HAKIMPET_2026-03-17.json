@@ -1,0 +1,35 @@
+{
+  "depot": "HAKIMPET",
+  "target_date": "2026-03-17",
+  "predicted_depot_pkm": 1358205.125,
+  "total_services": 147,
+  "count_add_slot": 40,
+  "count_cut": 0,
+  "count_no_change": 107,
+  "total_allocated_pkm": 1297568.7725788886,
+  "quadrant_counts": {
+    "UNDERSUPPLY": 92,
+    "OVERSUPPLY": 54,
+    "INEFFICIENT": 1
+  },
+  "quadrant_pcts": {
+    "UNDERSUPPLY": 62.6,
+    "OVERSUPPLY": 36.7,
+    "INEFFICIENT": 0.7
+  },
+  "total_revenue": 1767527.2526092108,
+  "total_contribution": 958791.9426092107,
+  "total_planned_kms": 30757.0,
+  "depot_avg_epk": 57.4569103848226,
+  "depot_avg_or": 0.7746852627899603,
+  "revenue_by_quadrant": {
+    "INEFFICIENT": 3163.530681321729,
+    "OVERSUPPLY": 617308.7103339665,
+    "UNDERSUPPLY": 1147055.0115939225
+  },
+  "contribution_by_quadrant": {
+    "INEFFICIENT": -365.6993186782711,
+    "OVERSUPPLY": 293127.79033396655,
+    "UNDERSUPPLY": 666029.8515939225
+  }
+}

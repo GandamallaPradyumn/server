@@ -1,0 +1,35 @@
+{
+  "depot": "MAHABOOBABAD",
+  "target_date": "2026-03-13",
+  "predicted_depot_pkm": 1444494.875,
+  "total_services": 76,
+  "count_add_slot": 42,
+  "count_cut": 3,
+  "count_no_change": 31,
+  "total_allocated_pkm": 1394169.2450142005,
+  "quadrant_counts": {
+    "UNDERSUPPLY": 60,
+    "OVERSUPPLY": 12,
+    "INEFFICIENT": 4
+  },
+  "quadrant_pcts": {
+    "UNDERSUPPLY": 78.9,
+    "OVERSUPPLY": 15.8,
+    "INEFFICIENT": 5.3
+  },
+  "total_revenue": 1620273.4129483993,
+  "total_contribution": 1061785.6229483993,
+  "total_planned_kms": 31066.0,
+  "depot_avg_epk": 51.63937173355849,
+  "depot_avg_or": 0.856749141871974,
+  "revenue_by_quadrant": {
+    "INEFFICIENT": 12389.287879952753,
+    "OVERSUPPLY": 186461.42635025713,
+    "UNDERSUPPLY": 1421422.6987181893
+  },
+  "contribution_by_quadrant": {
+    "INEFFICIENT": -15831.162120047247,
+    "OVERSUPPLY": 93097.14635025714,
+    "UNDERSUPPLY": 984519.6387181893
+  }
+}

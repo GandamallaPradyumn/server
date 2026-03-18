@@ -1,0 +1,35 @@
+{
+  "depot": "BHUPALAPALLAY",
+  "target_date": "2026-03-16",
+  "predicted_depot_pkm": 1730592.375,
+  "total_services": 86,
+  "count_add_slot": 51,
+  "count_cut": 0,
+  "count_no_change": 35,
+  "total_allocated_pkm": 1674516.536615232,
+  "quadrant_counts": {
+    "UNDERSUPPLY": 62,
+    "OVERSUPPLY": 18,
+    "INEFFICIENT": 6
+  },
+  "quadrant_pcts": {
+    "UNDERSUPPLY": 72.1,
+    "OVERSUPPLY": 20.9,
+    "INEFFICIENT": 7.0
+  },
+  "total_revenue": 2114333.4363489277,
+  "total_contribution": 1277617.0563489278,
+  "total_planned_kms": 40068.0,
+  "depot_avg_epk": 52.61015554156193,
+  "depot_avg_or": 0.8361757463511835,
+  "revenue_by_quadrant": {
+    "INEFFICIENT": 24848.522992237275,
+    "OVERSUPPLY": 312850.8558896258,
+    "UNDERSUPPLY": 1776634.0574670648
+  },
+  "contribution_by_quadrant": {
+    "INEFFICIENT": -30552.397007762727,
+    "OVERSUPPLY": 146863.45588962577,
+    "UNDERSUPPLY": 1161305.9974670648
+  }
+}
